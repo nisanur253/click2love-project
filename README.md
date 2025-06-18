@@ -1,2 +1,3 @@
-# click2love-project
-A self-developed dating app startup project, including its presentation and reports.
+# Click2Love Project
+
+🎯 You can see the presentation via this link: [ https://click2love.my.canva.site ]
